@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<SystemSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <version>1.0.0.0</version>
+  <!--
+  
+  Default-UI-Cmds ( ABSNextGen ).xml
+  Default-UI-Status ( ABSNextGen ).xml
+  
+  Default-UI-Cmds ( Helix ).xml
+  Default-UI-Status ( Helix ).xml
+  
+  Default-UI-Cmds ( MFV ).xml 
+  Default-UI-Status ( MFV ).xml
+  
+  
+  Default-UI-Cmds ( Helix Smart ).xml
+  Default-UI-Status ( Helix Smart ).xml
+  -->
+  <fileUICmdsControl>Default-UI-Cmds ( Helix ).xml</fileUICmdsControl>
+  <fileUICmdStatus>Default-UI-Status ( Helix ).xml</fileUICmdStatus>
+</SystemSettings>
+
+
